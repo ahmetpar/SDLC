@@ -1,0 +1,12 @@
+Steakholder = sirketin ihtiyaclarina gore aracilik
+yapan kisi ProductOwner tarafindan gorevlendirilen 
+kiside denilebilir.
+
+User Expectaion : musteri beklentileri
+high quality: yuksek kaliteli
+User requirement : musteri ihtiyaclari
+Planning und Requierement Analys;
+defining Requirement : ihtiyaclarin belirlenmesi
+
+Backlog = is listesi
+
